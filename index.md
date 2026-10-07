@@ -25,6 +25,8 @@ I have gained hands-on research experience through a summer project involving si
 
 - **Commercial SWCNT Comparison:** Compared the purity data of the company's SWCNT products with commercially available SWCNT products to evaluate differences in material purity and performance.
 
+- **Technical Writing and Communication:** Contributed to external-facing promotional and informational articles about SWCNT products, translating technical concepts into clear and accessible language for broader audiences.
+
 Feel free to explore my portfolio and reach out for research, internship, or career opportunities.
 
 ---
