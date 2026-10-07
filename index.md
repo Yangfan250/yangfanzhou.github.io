@@ -33,6 +33,6 @@ Feel free to explore my portfolio and reach out for research, internship, or car
 
 ### Contact Information
 
-- Email: yangfan.zhou@uconn.edu
+- Email: [yangfan.zhou@uconn.edu](mailto:yangfan.zhou@uconn.edu)
 - GitHub: [Yangfan250](https://github.com/Yangfan250)
-- LinkedIn: [Yangfan Zhou](https://www.linkedin.com/in/扬帆-周-220262395/)
+- LinkedIn: [周扬帆](https://www.linkedin.com/in/扬帆-周-220262395/)
