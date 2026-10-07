@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Yangfan Zhou
-Welcome to my professional portfolio! I am an undergraduate Physics student at the University of Connecticut. I plan to graduate in Spring 2027. My current GPA is 3.41. 
+Welcome to my professional portfolio! I am an undergraduate **Physics** student at the University of Connecticut. I plan to graduate in Spring 2027. My current GPA is **3.41**. 
 
 ## About Me
 
