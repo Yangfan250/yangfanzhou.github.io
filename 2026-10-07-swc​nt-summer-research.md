@@ -3,7 +3,7 @@ title: "My SWCNT Summer Research Experience"
 date: 2026-10-07
 ---
 
-# My SWCNT Summer Research Experience
+# Overview
 
 During my summer research experience, I worked with single-walled carbon nanotubes (SWCNTs) and participated in several aspects of their production, purification, and data analysis.
 
